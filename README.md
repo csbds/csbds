@@ -7,7 +7,7 @@ I use **Python, Pandas, Excel, and Power Query** to automate processes, validate
 ## 🛠 Skills
 Python • Pandas • Excel • Power Query • Data Analytics • Automation
 
-## 💼 Places I've Worked
+## 💼 Where I Have Worked
 Maple Leaf Foods • People Corporation • TD Bank
 
 ## 📊 Personal Projects
