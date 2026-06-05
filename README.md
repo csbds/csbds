@@ -1,16 +1,21 @@
-## Hi there 👋
+```markdown
+# Hi, I'm Chad 👋
 
-<!--
-**csbds/csbds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pension Administration & Data Analytics Professional**
 
-Here are some ideas to get you started:
+I use **Python, Pandas, Excel, and Power Query** to automate processes, validate data, and generate business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Python • Pandas • Excel • Power Query • Data Analytics • Automation
+
+## 💼 Places I've Worked
+Maple Leaf Foods • People Corporation • TD Bank
+
+## 📊 Personal Projects
+- Apple Fitness Data Analytics
+- Apple Music Data Transformation
+- Mac Application Log Analysis
+- Disk Usage Forecasting
+- Screen Time Analytics
+
+```
