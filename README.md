@@ -14,6 +14,6 @@ Maple Leaf Foods • People Corporation • TD Bank
 - Apple Fitness Data Analytics
 - Apple Music Data Transformation
 - Mac Application Log Analysis
-- Disk Usage Forecasting
 - Screen Time Analytics
+- Disk Usage Forecasting
 
