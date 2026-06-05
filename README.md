@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Chad 👋
 
 **Pension Administration & Data Analytics Professional**
@@ -18,4 +17,3 @@ Maple Leaf Foods • People Corporation • TD Bank
 - Disk Usage Forecasting
 - Screen Time Analytics
 
-```
